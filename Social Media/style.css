@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: 0;
+}
+#left-img{
+    position: absolute;
+    left: 30px;
+    top: 15px;
+    height: 30px;
+    width: 30px;
+    border-radius: 10px;
+}
+.searchbar{
+    display: flex;
+    height: 30px;
+    width: 170px;  
+    position: absolute;
+    left: 70px;
+    top: 15px;
+    border-radius: 8px;
+    outline: none;
+}
+.searchbar input{
+    border: none;
+    background: transparent;
+}
+.searchbar i{
+    position: absolute;
+    left: 7px;
+    top: 7px;
+    height: 20px;
+    width: 10px;
+}
