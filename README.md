@@ -1,3 +1,3 @@
 # snakegame
-entertaining game\n
+entertaining game \n
 https://mayankrajput5455.github.io/snakegame/
